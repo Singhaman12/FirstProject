@@ -9,6 +9,7 @@ public class Demo {
         str1 = obj.next();
         System.out.println("String is: " + str1);
         reverse(str1);
+        int ty;
     }
 
     public static void reverse(String str) {
